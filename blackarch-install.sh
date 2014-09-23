@@ -1,0 +1,1 @@
+pacman -S blackarch-bluetooth \ blackarch-scanner \ blackarch-wireless \ blackarch-social \ blackarch-sniffer \ blackarch-forensis \ blackarch-forensic \ libcanberra \ libcanberra-pulse \ libcanberra-gsmstreamer \ libcanberra-gstramer \ /libcanberra-gstreamer \  \ 
